@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan Kalyan Veluguri</h1>
+**<h1 align="center">Hi 👋, I'm Pavan Kalyan Veluguri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan782&label=Profile%20views&color=09ecdd&style=plastic" alt="pavan782" /> </p>
@@ -16,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan782&show_icons=true&theme=dracula&locale=en" alt="pavan782" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan782&" alt="pavan782" /></p>
+**
