@@ -1,12 +1,17 @@
-**<h1 align="center">Hi 👋, I'm Pavan Kalyan Veluguri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pavan Kalyan Veluguri</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan782&label=Profile%20views&color=09ecdd&style=plastic" alt="pavan782" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavan782" alt="pavan782" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pavanka326" target="blank"><img src="https://img.shields.io/twitter/follow/pavanka326?logo=twitter&style=for-the-badge" alt="pavanka326" /></a> </p>
+
+- 🔭 I’m currently working on **opensource contributions**
+
+- 🌱 I’m currently learning **Machine learning & Deep learning Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/pavanka326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavanka326" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-kalyan-861518257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-kalyan-861518257" height="30" width="40" /></a>
 </p>
 
@@ -16,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan782&show_icons=true&theme=dracula&locale=en" alt="pavan782" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan782&" alt="pavan782" /></p>
-**
